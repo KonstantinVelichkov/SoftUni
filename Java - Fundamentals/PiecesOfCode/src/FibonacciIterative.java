@@ -4,14 +4,9 @@ import java.util.List;
 
 public class FibonacciIterative {
     public static void main(String[] args) {
-        /*"Fibonacci Sequence" redirects here. For the chamber ensemble, see Fibonacci Sequence (ensemble).
 
-         A tiling with squares whose side lengths are successive Fibonacci numbers: 1, 1, 2, 3, 5, 8, 13 and 21.
-        In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence,
-        such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,[1]
-
-        for n > 1*/
 FibonacciIterative(15);
+
     }
     static int FibonacciIterative(int n)
     {
